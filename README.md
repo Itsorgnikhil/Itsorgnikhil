@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Nikhil Kumawat
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&pause=1000&color=76BBC2&width=435&lines=Full+Stack+Developer+%7C+Spring+Boot+Developer;Passionate+about+Building+Scalable+Backend+Systems+with+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&pause=1000&color=76BBC2&width=435&lines=Full+Stack+Developer+%7C+Spring+Boot+Developer;Passionate+about+Building+Scalable+Backend;Using+Java+%26+SpringBoot)](https://git.io/typing-svg)
 
 Email Me 👉 ✉️ **[nikhilkmt123@gmail.com](mailto:nikhilkmt123@gmail.com)** For Collaboration, Projects, or Tech Discussions.
 
