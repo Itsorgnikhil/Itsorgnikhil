@@ -97,47 +97,42 @@
 <text x="30" y="555.6" class="art artline" xml:space="preserve" textLength="362.7" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.99s">@@        ....            :*###**################+------#@@@-.....................@@@@@@@@@@@</text>
 <text x="30" y="562.3" class="art artline" xml:space="preserve" textLength="362.7" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.00s">@@        ....            .-+****################=-==:-=+%@@+..................@@@@@@@@@@@@@@</text>
 <text x="30" y="569.0" class="art artline" xml:space="preserve" textLength="362.7" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.01s">@         ....             :*******############*#*=-+-=*+#@@%...............@@@@@@@@@@@@@@@@@</text>
-<text x="30" y="575.7" class="art artline" xml:space="preserve" textLength="362.7" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.03s">@         ...               -+***################**+++*=-*@@%...... ...-:@@@@@@@@@@@@@@@@@@@@</text>
-<text x="418" y="92.0" class="hdr row" style="animation-delay:0.35s">Hammad Choudhary</text>
-<line x1="418" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
-<text x="418" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="510" y="117.5" class="val row" style="animation-delay:0.49s">MERN Stack Developer / React Native Developer</text>
-<text x="418" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
-<text x="510" y="135.0" class="val row" style="animation-delay:0.56s">B.S. Software Engineering · University of Sargodha</text>
-<text x="418" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
-<text x="510" y="152.5" class="acc row" style="animation-delay:0.63s">MERN Stack · React Native · DevOps Learning</text>
-<text x="418" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
-<text x="418" y="197.5" class="key row" style="animation-delay:0.77s">Frontend</text>
-<text x="510" y="197.5" class="val row" style="animation-delay:0.77s">React.js · JavaScript · Tailwind CSS</text>
-<text x="418" y="215.0" class="key row" style="animation-delay:0.84s">Backend</text>
-<text x="510" y="215.0" class="val row" style="animation-delay:0.84s">Node.js · Express.js</text>
-<text x="418" y="232.5" class="key row" style="animation-delay:0.91s">Database</text>
-<text x="510" y="232.5" class="val row" style="animation-delay:0.91s">MongoDB · MySQL</text>
-<text x="418" y="250.0" class="key row" style="animation-delay:0.98s">Mobile</text>
-<text x="510" y="250.0" class="val row" style="animation-delay:0.98s">React Native</text>
-<text x="418" y="267.5" class="key row" style="animation-delay:1.05s">DevOps</text>
-<text x="510" y="267.5" class="val row" style="animation-delay:1.05s">Docker · Git · GitHub</text>
-<text x="418" y="285.0" class="key row" style="animation-delay:1.12s">Tools</text>
-<text x="510" y="285.0" class="val row" style="animation-delay:1.12s">VS Code · Postman · Cursor AI</text>
-<text x="418" y="312.5" class="sec row" style="animation-delay:1.19s">~/projects</text>
-<text x="418" y="330.0" class="key row" style="animation-delay:1.26s">NearbyChat</text>
-<text x="510" y="330.0" class="wrn row" style="animation-delay:1.26s">Anonymous Nearby Chat App</text>
-<text x="418" y="347.5" class="key row" style="animation-delay:1.33s">HLmart</text>
-<text x="510" y="347.5" class="wrn row" style="animation-delay:1.33s">Shopping App</text>
-<text x="418" y="365.0" class="key row" style="animation-delay:1.40s">HMS</text>
-<text x="510" y="365.0" class="wrn row" style="animation-delay:1.40s">Hospital Management System</text>
-<text x="418" y="382.5" class="key row" style="animation-delay:1.47s">ExpenseApp</text>
-<text x="510" y="382.5" class="wrn row" style="animation-delay:1.47s">Spring Boot + Docker</text>
-<text x="418" y="410.0" class="sec row" style="animation-delay:1.54s">~/highlights</text>
-<text x="418" y="427.5" class="key row" style="animation-delay:1.61s">Cert</text>
-<text x="510" y="427.5" class="val row" style="animation-delay:1.61s">Complete Web Dev · React (Zero to Hero) </text>
-<text x="418" y="455.0" class="sec row" style="animation-delay:1.68s">~/reach</text>
-<text x="418" y="472.5" class="key row" style="animation-delay:1.75s">GitHub</text>
-<text x="510" y="472.5" class="acc row" style="animation-delay:1.75s">github.com/Codewithhammad6</text>
-<text x="418" y="490.0" class="key row" style="animation-delay:1.82s">LinkedIn</text>
-<text x="510" y="490.0" class="acc row" style="animation-delay:1.82s">linkedin.com/in/muhammad-hammad-sadiq-463a133b1</text>
-<text x="418" y="507.5" class="key row" style="animation-delay:1.89s">Mail</text>
-<text x="510" y="507.5" class="acc row" style="animation-delay:1.89s">hammadp5087@gmail.com</text>
-<text x="30" y="596" class="row" style="animation-delay:2.06s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8"> MERN Stack Developer </tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 22 Jul 2026, 19:29 IST</text>
-</svg>
+<text x="418" y="92.0" class="hdr row" style="animation-delay:0.35s">Nikhil Kumawat</text>
+    <line x1="418" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
+    <text x="418" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
+    <text x="510" y="117.5" class="val row" style="animation-delay:0.49s">Java Backend &amp; Full-Stack Developer</text>
+    <text x="418" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
+    <text x="510" y="135.0" class="val row" style="animation-delay:0.56s">B.Tech CSE · UEM Jaipur (CGPA: 8.8)</text>
+    <text x="418" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
+    <text x="510" y="152.5" class="acc row" style="animation-delay:0.63s">Microservices · Distributed Systems · Event-Driven Arch</text>
+    <text x="418" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
+    <text x="418" y="197.5" class="key row" style="animation-delay:0.77s">Languages</text>
+    <text x="510" y="197.5" class="val row" style="animation-delay:0.77s">Java · JavaScript · SQL</text>
+    <text x="418" y="215.0" class="key row" style="animation-delay:0.84s">Backend</text>
+    <text x="510" y="215.0" class="val row" style="animation-delay:0.84s">Spring Boot · Microservices · Kafka · Redis</text>
+    <text x="418" y="232.5" class="key row" style="animation-delay:0.91s">Database</text>
+    <text x="510" y="232.5" class="val row" style="animation-delay:0.91s">PostgreSQL · MySQL · MongoDB</text>
+    <text x="418" y="250.0" class="key row" style="animation-delay:0.98s">Frontend</text>
+    <text x="510" y="250.0" class="val row" style="animation-delay:0.98s">React.js · HTML · CSS</text>
+    <text x="418" y="267.5" class="key row" style="animation-delay:1.05s">DevOps</text>
+    <text x="510" y="267.5" class="val row" style="animation-delay:1.05s">Docker · AWS · GitHub Actions · Git</text>
+    <text x="418" y="285.0" class="key row" style="animation-delay:1.12s">Tools</text>
+    <text x="510" y="285.0" class="val row" style="animation-delay:1.12s">IntelliJ IDEA · Postman · VS Code</text>
+    <text x="418" y="312.5" class="sec row" style="animation-delay:1.19s">~/projects</text>
+    <text x="418" y="330.0" class="key row" style="animation-delay:1.26s">ShopHere</text>
+    <text x="510" y="330.0" class="wrn row" style="animation-delay:1.26s">Multi-Vendor E-Commerce Platform (10+ Microservices)</text>
+    <text x="418" y="347.5" class="key row" style="animation-delay:1.33s">BookNearMe</text>
+    <text x="510" y="347.5" class="wrn row" style="animation-delay:1.33s">AI-Powered Hotel Booking Platform</text>
+    <text x="418" y="375.0" class="sec row" style="animation-delay:1.54s">~/highlights</text>
+    <text x="418" y="392.5" class="key row" style="animation-delay:1.61s">LeetCode</text>
+    <text x="510" y="392.5" class="val row" style="animation-delay:1.61s">200+ DSA Problems Solved</text>
+    <text x="418" y="410.0" class="key row" style="animation-delay:1.65s">Cert</text>
+    <text x="510" y="410.0" class="val row" style="animation-delay:1.65s">NPTEL Programming in Java (Top 5% Nationwide)</text>
+    <text x="418" y="437.5" class="sec row" style="animation-delay:1.68s">~/reach</text>
+    <text x="418" y="455.0" class="key row" style="animation-delay:1.75s">GitHub</text>
+    <text x="510" y="455.0" class="acc row" style="animation-delay:1.75s">github.com/Itsorgnikhil</text>
+    <text x="418" y="472.5" class="key row" style="animation-delay:1.82s">LinkedIn</text>
+    <text x="510" y="472.5" class="acc row" style="animation-delay:1.82s">linkedin.com/in/nikhil-kumawat-6859a0296</text>
+    <text x="418" y="490.0" class="key row" style="animation-delay:1.89s">Mail</text>
+    <text x="510" y="490.0" class="acc row" style="animation-delay:1.89s">nikhilkmt123@gmail.com</text>
+    <text x="30" y="596" class="row" style="animation-delay:2.06s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8"> Java Backend Developer </tspan><tspan class="cur" dx="8">█</tspan></text>
